@@ -1,0 +1,21 @@
+.footer {
+    background-color: green;
+    color: white;
+    padding: 50px;
+}
+.list-group-item {
+    background-color: green (244, 224, 224, 0.579);
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+h3 {
+    background-color: green;
+    color: white;
+}
+
+h4 {
+    background-color: green;
+    color: white;
+}

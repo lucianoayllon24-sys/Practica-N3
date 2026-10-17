@@ -1,0 +1,5 @@
+.container-fluid p-5 bg-primary text-white text-center {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
